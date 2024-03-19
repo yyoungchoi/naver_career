@@ -1,0 +1,20 @@
+@font-face {
+  font-family: "NanumSquare";
+  font-weight: normal;
+  src: url(../font/NanumSquare/NanumSquareOTFRegular.woff) format("woff");
+}
+@font-face {
+  font-family: "NanumSquare";
+  font-weight: bold;
+  src: url(../font/NanumSquare/NanumSquareOTFBold.woff) format("woff");
+}
+@font-face {
+  font-family: "TTHoves";
+  font-weight: bold;
+  src: url(../font/TTHoves/TTHoves-Medium.woff) format("woff");
+}
+@font-face {
+  font-family: "TTHoves";
+  font-weight: 800;
+  src: url(../font/TTHoves/TTHoves-DemiBold.woff) format("woff");
+}
